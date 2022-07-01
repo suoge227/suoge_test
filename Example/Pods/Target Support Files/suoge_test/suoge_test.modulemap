@@ -1,0 +1,6 @@
+framework module suoge_test {
+  umbrella header "suoge_test-umbrella.h"
+
+  export *
+  module * { export * }
+}

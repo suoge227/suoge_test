@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # suoge_test
 
 [![CI Status](https://img.shields.io/travis/suoge227/suoge_test.svg?style=flat)](https://travis-ci.org/suoge227/suoge_test)
@@ -27,3 +28,6 @@ suoge227, 2937278426@qq.com
 ## License
 
 suoge_test is available under the MIT license. See the LICENSE file for more info.
+=======
+# suoge_test
+>>>>>>> d233a473e096c0d57f760cc751d7675627903552

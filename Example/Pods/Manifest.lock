@@ -1,0 +1,16 @@
+PODS:
+  - suoge_test (0.1.0)
+
+DEPENDENCIES:
+  - suoge_test (from `../`)
+
+EXTERNAL SOURCES:
+  suoge_test:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  suoge_test: 2f8bfeeb387e74296c3668fca8d2473b946cc7e3
+
+PODFILE CHECKSUM: efe52a11d71f16362a6fdeed0428421f0e96a1f6
+
+COCOAPODS: 1.11.3
