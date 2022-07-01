@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'suoge_test_Example' do
+  pod 'suoge_test', :path => '../'
+
+  target 'suoge_test_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
